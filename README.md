@@ -1,0 +1,1 @@
+Mailchimp newsletter template for Audiopile. Used to showcase the week's new stock and display an update to customers. This template is made using Mailchimp's template structure rules and tags.
